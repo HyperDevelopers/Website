@@ -30,3 +30,7 @@ a {
 a:hover {
   color: rich midtone cyan;
 }
+a.foot {
+  color: #fff;
+  text-decoration: none;
+}

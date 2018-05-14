@@ -23,3 +23,10 @@ body {
   right: 0px;
   color: #fff;
 }
+a {
+  text-decoration: none;
+  color: rich midtone blue;
+}
+a:hover {
+  color: rich midtone cyan;
+}

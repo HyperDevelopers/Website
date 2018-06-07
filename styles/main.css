@@ -17,7 +17,7 @@ body {
 #footer {
   bottom: 0px;
   width: 100%;
-  height: 30px;
+  height: 35px;
   background-color: #333;
   left: 0px;
   right: 0px;
@@ -25,10 +25,10 @@ body {
 }
 a {
   text-decoration: none;
-  color: rich midtone blue;
+  color: rgb(62,119,251);
 }
 a:hover {
-  color: rich midtone cyan;
+  color: rgb(61,176,234);
 }
 a.foot {
   color: #fff;
